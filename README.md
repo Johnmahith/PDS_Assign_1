@@ -4,10 +4,10 @@ This repository hosts code and analysis for two projects: a frailty study in ind
 
 ## Projects Overview
 
-### Frailty Study Analysis (`pds_assign1_q1.py`)
+### Frailty Study Analysis (`pds_assign1_q1.ipynb`)
 Analyzes physical weakness in individuals by performing a linear regression on grip strength and producing residual plots.
 
-### Student Performance Visualization (`pds_assign1_q2.py`)
+### Student Performance Visualization (`pds_assign1_q2.ipynb`)
 Generates visualizations to explore student performance across various demographics and preparation levels.
 
 ## Structure and Usage
